@@ -16,6 +16,10 @@ Lunar Client 1.17.1
 
 Lunar Client 1.18.2
 
+Lunar Client 1.19.4
+
+Lunar Client 1.20.4
+
 Badlion Client 1.8.9
 
 Vanilla 1.8.9
