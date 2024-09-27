@@ -1,5 +1,4 @@
-# Verus
-Ghost Client
+# Verus Ghost Client
 ------------
 Private code
 ------------
